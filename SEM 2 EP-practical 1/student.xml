@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Students SYSTEM "student.dtd">
 <Students>
-	<student> 
+	<student>
 		<regno>0821</regno>
 		<name>bhavya</name>
 		<avg>92</avg>
@@ -37,7 +37,7 @@
 		<mobileno>9097245678</mobileno>
 		<distinction>YES</distinction>
 	</student>
-	<student >
+	<student>
 		<regno>0989</regno>
 		<name>Sita</name>
 		<avg>93</avg>
