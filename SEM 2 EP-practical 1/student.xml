@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Students SYSTEM "student.dtd">
+<Students>
+	<student> 
+		<regno>0821</regno>
+		<name>bhavya</name>
+		<avg>92</avg>
+		<dob>08-03-2002</dob>
+		<time>9:00 am</time>
+		<mobileno>9010505176</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>2108</regno>
+		<name>siva</name>
+		<avg>93</avg>
+		<dob>21-06-1996</dob>
+		<time>10:30 am</time>
+		<mobileno>9346828926</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>2277</regno>
+		<name>hasma</name>
+		<avg>93</avg>
+		<dob>22-03-2002</dob>
+		<time>11:00 am</time>
+		<mobileno>9176898709</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>8787</regno>
+		<name>Sri</name>
+		<avg>95</avg>
+		<dob>01-09-2002</dob>
+		<time>1:00 pm</time>
+		<mobileno>9097245678</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student >
+		<regno>0989</regno>
+		<name>Sita</name>
+		<avg>93</avg>
+		<dob>26-06-2001</dob>
+		<time>9:30 am</time>
+		<mobileno>9988090809</mobileno>
+		<distinction>YES</distinction>
+	</student>
+</Students>
