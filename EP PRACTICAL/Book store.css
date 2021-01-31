@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+books {
+	colour: black;
+	background-color: lightpink;
+	width: 100%;
+}
+
+heading {
+	color: white;
+	font-size: 40px;
+	background-color: brown;
+}
+
+heading, tittle, author, publisher, edition, price {
+	display: block;
+}
+
+tittle {
+	font-size: 25px;
+	font-weight: bold;
+}
